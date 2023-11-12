@@ -1,0 +1,6 @@
+nltk
+Flask
+json5
+dumpy
+tensorflow
+keras
