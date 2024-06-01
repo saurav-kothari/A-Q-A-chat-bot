@@ -60,7 +60,7 @@ epochs = 500
 history = model.fit(padded_sequences, np.array(training_labels), epochs=epochs)
 
 
-# to save the trained model
+
 model.save("chat_model")
 
 import pickle
